@@ -1,14 +1,8 @@
 namespace TestRefStruct;
 
-public struct TimeIntervalStruct
+public struct TimeIntervalStruct(DateTime start, DateTime end)
 {
-    public TimeIntervalStruct(DateTime start, DateTime end)
-    {
-        StartTime = start;
-        EndTime = end;
-    }
-    
-    public DateTime StartTime { get; set; }
-    public DateTime EndTime { get; set; }
+    public DateTime StartTime { get; set; } = start;
+    public DateTime EndTime { get; set; } = end;
     public TimeSpan Duration => EndTime - StartTime;
 }
