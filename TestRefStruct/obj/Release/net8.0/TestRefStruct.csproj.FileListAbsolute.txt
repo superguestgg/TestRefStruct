@@ -1,0 +1,4 @@
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Release/net8.0/TestRefStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Release/net8.0/TestRefStruct.AssemblyInfoInputs.cache
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Release/net8.0/TestRefStruct.AssemblyInfo.cs
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Release/net8.0/TestRefStruct.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/bin/Debug/net8.0/TestRefStruct
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/bin/Debug/net8.0/TestRefStruct.deps.json
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/bin/Debug/net8.0/TestRefStruct.runtimeconfig.json
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/bin/Debug/net8.0/TestRefStruct.dll
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/bin/Debug/net8.0/TestRefStruct.pdb
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.AssemblyInfoInputs.cache
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.AssemblyInfo.cs
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.csproj.CoreCompileInputs.cache
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.dll
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/refint/TestRefStruct.dll
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.pdb
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/TestRefStruct.genruntimeconfig.cache
+/home/ilyarybin/Документы/TestRefStruct/TestRefStruct/obj/Debug/net8.0/ref/TestRefStruct.dll
